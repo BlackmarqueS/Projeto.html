@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+
+<title>BlackmarqueS</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="widht=device-width, initial-scale=1.0">
+<meta name="description" content="Uma página de jogos criado por um apaixonado por games venha conferir">
+<link rel="stylesheet" type="text/css" href="./BlackmarqueS_files/Style.css">
+
+</head>
+
+<nav>
+<form class="FORMULARIO">
+<fieldset>
+
+    Login:<input type="text" name="login" id="login" />
+    </br>
+    </br>
+    Senha:<input type="password" name="password" id="password" />
+    </br>
+    </br>
+    <input type="submit" name="Enviar"/> 
+    <input type="reset" value="Limpar" />
+    </br>
+    </br>
+    </fieldset>
+                 
+</form>
+</nav>
+
+<body class="corpo">
+
+<!--WELCOME-->
+<br>
+<br>
+<h1 class="WELCOME">BEM VINDO PLAYER 1</h1>
+<br>
+<br>
+
+<!--FIM DO CABEÇALHO-->
+<!--CORPO DA PÁGINA FRENTE/FOTO-->
+
+
+<!--TEXTO-->
+<div class="TODOTEXTO">
+<h2> Aqui onde você encontra o melhor conteúdo gamer para PC, CONSOLE e outras plataformas</h2>
+<h2> Que bom que você chegou! Seja muito bem-vindo, e que sua jornada por aqui seja longa e repleta de bons frutos! </h2>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h2> Meu nome é Pedro Marques, tenho 27 anos atualmente e sou apaixonado por jogos, me dedico estar fazendo essa página da web para fins de teste! </h2>
+<br>
+<br>
+<!--FIM DO TEXTO-->
+<br>
+<h2> Tabela de jogos que tenho o prazer de dizer que amei todos os conteúdos que representam um game aqui vai um top 10</h2>
+<br>
+<br>
+
+<!--TABELA-->
+<table border="1" bgcolor="#008080" align="center">
+<tbody><tr> <!--linhas-->
+
+<!--TH cabeçalho-->
+<th bgcolor="#008080">JOGO</th>
+<th bgcolor="#008080">ANO DO LANÇAMENTO</th>
+<th bgcolor="#008080">DESENVOLVEDORA</th>
+<th bgcolor="#008080">PLATAFORMA</th>
+</tr>
+
+
+<tr> <!--Colunas 1-->
+<th>The Last of Us</th>
+<th>2013</th>
+<th>Naughty Dog</th>
+<th>PlayStation 3</th>
+</tr>
+   
+<tr> <!--Colunas 2-->
+
+<th>Harry Potter and the Philosopher's Stone</th>
+<th>2001</th>
+<th>Argonaut Software, Griptonite Games</th>
+<th>PlayStation, Nintendo GameCube, PlayStation 2</th>
+</tr>
+
+<tr> <!--Colunas 3-->
+
+<th>The Legend of Zelda: The Minish Cap</th>
+<th>2004</th>
+<th>Flagship, Capcom</th>
+<th>Game Boy Advance, Wii U, Nintendo 3DS</th>
+</tr>
+
+<tr> <!--Colunas 4-->
+
+<th>Resident Evil 4</th>
+<th>2005</th>
+<th>Capcom</th>
+<th>PlayStation 4, PlayStation 2, Android</th>
+</tr>
+
+<tr> <!--Colunas 5-->
+
+<th>Red Dead Redemption</th>
+<th>2010</th>
+<th>Rockstar Games</th>
+<th>PlayStation 3, Xbox 360</th>
+</tr>
+
+<tr> <!--Colunas 6-->
+
+<th>Sonic the Hedgehog</th>
+<th>1991</th>
+<th>Sega, Sonic Team, Backbone Entertainment, M2, Ancient Corporation</th>
+<th>Android, Mega Drive, SG-1000 Mark III</th>
+</tr>
+
+<tr> <!--Colunas 7-->
+
+<th>Diablo II</th>
+<th>2000</th>
+<th>Blizzard Entertainment, Blizzard North</th>
+<th>Microsoft Windows, macOS, Mac OS Classic</th>
+</tr>
+
+<tr> <!--Colunas 8-->
+
+<th>God of War II</th>
+<th>2007</th>
+<th>Santa Monica Studio e publicado pela Sony Computer</th>
+<th>PlayStation 2, PlayStation 3</th>
+</tr>
+
+<tr> <!--Colunas 9-->
+
+<th>The Room</th>
+<th>2012</th>
+<th>Fireproof Studios, Fireproof Games</th>
+<th>iOS, Android, Microsoft Windows, Nintendo Switch</th>
+</tr>
+    
+<tr> <!--Colunas 10-->
+
+<th>Super Mario World</th>
+<th>1990</th>
+<th>Nintendo, Nintendo Entertainment Analysis &amp; Development</th>
+<th>Super Nintendo Entertainment System, Game Boy Advance, Wii, Wii U, Arcade</th>
+</tr>
+</tbody></table>
+<br>
+<br>
+<br>
+</div> 
+</body>
+
+<!--Fim do corpo do programa-->
+
+<footer class="PES">
+<!--RODAPÉ DO PROGRAMA-->
+<h1>Cada segundo é tempo para mudar tudo para sempre</h1>
+<h3><u>Charles Chaplin</u></h3>
+<br>
+<br>
+
+</footer> 
+
+ 
+
+<!--Fim do rodapé-->
+
+
+</html>
