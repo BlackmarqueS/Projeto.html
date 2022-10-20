@@ -1,0 +1,32 @@
+/*CSS ESTILO */ 
+
+.WELCOME{ /*TEXTO PRIMÁRIO*/
+    color:white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    text-align:center;
+
+ }
+
+.TODOTEXTO{
+  text-align: center;
+  color: white;
+}
+
+
+.corpo{
+  background-color: #191970;
+}
+
+.FORMULARIO{
+  text-align: right;
+  background-image:url(banner.jpg);
+  background-position: center;
+  color: white;
+  }
+
+  .PES{ 
+   background-image: url(banner.jpg);
+   background-position: center;
+   text-align: center;
+   color: white;
+}
